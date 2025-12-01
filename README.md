@@ -183,7 +183,7 @@ def handler(event, context):
 
 ---
 
-## **11. How to Reproduce This Project
+## **11. How to Reproduce This Project**
 
 -**Checklist:**
 1. Create DynamoDB Table (Feedback)
