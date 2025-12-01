@@ -37,9 +37,8 @@ The architecture scales instantly from **0 to thousands of requests**, with zero
 
 ## **3. Architecture Diagram**
 
-*(Place your diagram image in `/architecture-diagram/diagram.png`)*
 
-
+![Screenshot](https://github.com/brendariho-cmyk/aws-restart-question-bank/blob/main/screenshot.PNG?raw=true)
 
 
 
