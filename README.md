@@ -38,7 +38,7 @@ The architecture scales instantly from **0 to thousands of requests**, with zero
 ## **3. Architecture Diagram**
 
 
-![Screenshot](https://github.com/brendariho-cmyk/aws-restart-question-bank/blob/main/screenshot.PNG?raw=true)
+![API](https://github.com/brendariho-cmyk/Customer-Feedback-API/blob/main/architecture-diagram/api.png)
 
 
 
