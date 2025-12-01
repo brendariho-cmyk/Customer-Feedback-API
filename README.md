@@ -3,7 +3,9 @@
 A fully serverless backend API that allows users to submit feedback securely and at scale.  
 Designed using AWS Lambda, DynamoDB, and API Gateway — demonstrating modern cloud-native architecture with zero servers to manage.
 
+
 ---
+
 
 ## **1. Business Problem: Collecting User Feedback at Scale**
 
@@ -16,7 +18,9 @@ Small businesses and startups often need a simple way to collect customer feedba
 
 Traditional backend servers are costly, fragile, and require constant maintenance.
 
+
 ---
+
 
 ## **2. Solution Overview**
 
